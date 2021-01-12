@@ -16,7 +16,7 @@ To launch application from Command Prompt:
 -Run the server application by typing:
   >java -cp ../ onlineExaminationSystem/oesServer
 
--proceed to fill in forms on oesServer until server window until shown the connection status window.
+-Fill in forms on oesServer until shown the connection status window.
 
 -Launch the same number of instances of oesClient as the number of students you specified in oesServer:
   >java -cp ../ onlineExaminationSystem/oesClient
