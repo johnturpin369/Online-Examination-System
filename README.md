@@ -3,12 +3,20 @@ Final assignment for a Telecommunication Networks course
 
 To launch application from Command Prompt:
 
--Download the .zip file and extract to convenient location.
--Open a command prompt and move to directory where .java files are found.
+-First, ensure that java is installed on your PC.
+
+-Download this project's .zip file and extract to convenient location.
+
+-Open a command prompt and move to directory where the project's java files are found:
+  >cd <directory_where_project_saved>/Online-Examination-System-main/onlineExaminationSystem
+
 -Compile the .java files:
-  > javac -cp ../ oesServer.java oesClient.java clientThread.java Question.java
+  >javac -cp ../ oesServer.java oesClient.java clientThread.java Question.java
+
 -Run the server application by typing:
-  > java -cp ../ onlineExaminationSystem/oesServer
-  -proceed to fill in forms on oesServer until you have entered number of students.
--once you know how many students, launch the corresponding number of instances of oesClient:
-  > java -cp ../ onlineExaminationSystem/oesClient
+  >java -cp ../ onlineExaminationSystem/oesServer
+
+-proceed to fill in forms on oesServer until server window until shown the connection status window.
+
+-Launch the same number of instances of oesClient as the number of students you specified in oesServer:
+  >java -cp ../ onlineExaminationSystem/oesClient
