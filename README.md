@@ -3,8 +3,6 @@ Final assignment for a Telecommunication Networks course. The goal of this assig
 
 To launch application from Command Prompt:
 
-First, ensure that java is installed on your PC.
-
 1) Download this project's .zip file and extract to convenient location.
 
 2) Open a command prompt and move to directory where the project's java files are found:
