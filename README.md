@@ -8,7 +8,7 @@ To launch the application from the Command Prompt:
 2) Open a command prompt and move to a directory where the project's java files are found:
   >cd <directory_where_project_saved>/Online-Examination-System-main/onlineExaminationSystem
 
-3) Compile the .java files:
+3) Compile the java files:
   >javac -cp ../ oesServer.java oesClient.java clientThread.java Question.java
 
 4) Launch the server application:
