@@ -1,5 +1,5 @@
 # Online-Examination-System
-Final assignment for a Telecommunication Networks course. The goal of this assignment was to create server application that students (clients) connect to and complete an examination. At the end of the exam, the students are given a final score. To run the program ensure that Java is installed on your PC. Begin by launching the server application (oesServer) and creating a questionnaire for the students. Then launch as many instances of the client application as the number of students specified in server application. 
+This is the final assignment for a Telecommunication Networks course. The goal of this assignment was to create client/server application whereby students (clients) connect to and complete an examination hosted by a server. At the end of the exam, the students are given a final score. To run the program ensure that Java is installed on your PC. Begin by launching the server application (oesServer) and creating a questionnaire for the students. Then launch as many instances of the client application as the number of students specified in server application. 
 
 To launch application from Command Prompt:
 
