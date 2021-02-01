@@ -16,5 +16,5 @@ To launch the application from the Command Prompt:
 
 5) Follow all instruction on oesServer until shown the connection status window.
 
-6) Launch the same number of instances of oesClient as the number of students specified in oesServer:
+6) Launch the same number of instances of oesClient as the number of students specified in oesServer. So for each student, run the command:
   >java -cp ../ onlineExaminationSystem/oesClient
